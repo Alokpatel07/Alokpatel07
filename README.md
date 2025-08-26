@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋  
 
-Hi there! I'm ** Alok Patel **, an aspiring **Cloud & DevOps Engineer** passionate about building, automating, and managing cloud infrastructure. I’m currently learning **AWS Cloud, DevOps tools, and automation practices** to kickstart my career in cloud engineering and DevOps.  
+Hi there! I'm **Alok Patel**, an aspiring **Cloud & DevOps Engineer** passionate about building, automating, and managing cloud infrastructure. I’m currently learning **AWS Cloud, DevOps tools, and automation practices** to kickstart my career in cloud engineering and DevOps.  
 
 ---
 
