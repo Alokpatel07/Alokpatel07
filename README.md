@@ -33,7 +33,7 @@ I’m passionate about **building, automating, and scaling cloud infrastructure*
   <img src="https://cdn-icons-png.flaticon.com/128/3128/3128329.png" width="30" style="margin: 0 10px; alt="LinkedIn"/>
 </a>
 <a href="mailto:patelalok884089@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/128/18154/18154191.png" width="30" style="margin: 0 10px; alt="Email"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/18154/18154191.png" width="30" style="margin: 0 10px; alt="Email"/>
 </a>
 </p>
 
