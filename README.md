@@ -1,4 +1,4 @@
-<p align="center">
+  <p align="center">
   <img src="https://camo.githubusercontent.com/3a66de03716a9b4b122a35dde0c379968ebab5af700dea6d98bd565750346319/68747470733a2f2f69626167726f757069742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30352f62616e6e65725f313330302d3335375f6465766f70732e706e67" alt="DevOps Banner" />
 </p>
 
@@ -29,7 +29,7 @@ I’m passionate about **building, automating, and scaling cloud infrastructure*
 
 ## 📬 Let’s Connect  
 <a href="https://www.linkedin.com/in/alok-patel-4b132922a">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/1384/1384014.png" width="30" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:patelalok884089@gmail.com">
