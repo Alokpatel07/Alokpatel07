@@ -34,7 +34,6 @@ I’m passionate about **building, automating, and scaling cloud infrastructure*
 <a href="mailto:patelalok884089@gmail.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Email"/>
 </a>
----
 
 ⭐ If you like my work, don’t forget to star my repos—it keeps me motivated to learn, build, and share!  
 
