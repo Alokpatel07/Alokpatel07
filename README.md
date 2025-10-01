@@ -29,7 +29,7 @@ I’m passionate about **building, automating, and scaling cloud infrastructure*
 
 ## 📬 Let’s Connect  
 - 📧 [Email Me](mailto:patelalok884089@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alok-patel-4b132922a)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-patel-4b132922a)
 
 ---
 
