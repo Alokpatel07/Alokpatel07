@@ -33,7 +33,7 @@ I’m passionate about **building, automating, and scaling cloud infrastructure*
 </a>
 
 <a href="mailto:patelalok884089@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width="30" alt="Email"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/2099/2099199.png" width="30" alt="Email"/>
   </a>
 
 ⭐ If you like my work, don’t forget to star my repos—it keeps me motivated to learn, build, and share!  
