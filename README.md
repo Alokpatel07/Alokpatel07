@@ -29,7 +29,7 @@ I’m passionate about **building, automating, and scaling cloud infrastructure*
 
 ## 📬 Let’s Connect  
 <a href="https://www.linkedin.com/in/alok-patel-4b132922a">
-  <img src="https://cdn-icons-png.flaticon.com/128/1384/1384014.png" width="30" alt="LinkedIn"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="30" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:patelalok884089@gmail.com">
