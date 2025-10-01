@@ -1,51 +1,38 @@
-# Welcome to My GitHub Profile! 👋  
+<p align="center">
+  <img src="https://camo.githubusercontent.com/3a66de03716a9b4b122a35dde0c379968ebab5af700dea6d98bd565750346319/68747470733a2f2f69626167726f757069742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30352f62616e6e65725f313330302d3335375f6465766f70732e706e67" alt="DevOps Banner" />
+</p>
 
-Hi there! I'm **Alok Patel**, an aspiring **Cloud & DevOps Engineer** passionate about building, automating, and managing cloud infrastructure. I’m currently learning **AWS Cloud, DevOps tools, and automation practices** to kickstart my career in cloud engineering and DevOps.  
+# 👋 Hi, I'm Alok Patel  
 
----
+🚀 **Aspiring Cloud & DevOps Engineer** | ☁️ AWS | 🐧 Linux | ⚡ DevOps Tools  
 
-## 🚀 About Me  
-
-- 🎓 Pursuing a *Bachelor's in Computer Science Engineering*  
-- ☁️ Aspiring *Cloud/DevOps Engineer* with focus on *AWS, Linux, Git, and CI/CD*  
-- 🔧 Learning *infrastructure automation, containerization, and monitoring tools*  
-- 📚 Continuously upgrading my skills to align with *industry best practices*  
-- 🌱 Interested in *real-world cloud projects, DevOps practices, and system automation*  
+I’m passionate about **building, automating, and scaling cloud infrastructure**. Currently sharpening my skills in **AWS Cloud, DevOps practices, and automation** to kickstart my career in Cloud & DevOps engineering.  
 
 ---
 
-## 🛠 Skills & Learning Path  
-
-- **Cloud Platform:** AWS (EC2, S3, IAM, RDS, VPC, Lambda, CloudWatch, Auto Scaling, etc.)  
-- **DevOps Tools:** Git, GitHub, GitHub Actions, Jenkins (learning), Ansible (learning)  
-- **Containerization & Orchestration:** Docker, Kubernetes (beginner)  
-- **Operating System & Scripting:** Linux (Bash), Python basics  
-- **Concepts:** CI/CD pipelines, Infrastructure as Code, Cloud Security basics  
-- **Other Tools:** VS Code, GitHub Projects  
+## 🛠️ Tech Stack & Tools  
+- **Cloud:** AWS (EC2, S3, IAM, RDS, VPC, Lambda, CloudWatch, Auto Scaling, Load balancing, EKS, ECS)  
+- **DevOps Tools:** Git, GitHub Actions, Jenkins (learning), Ansible (learning)  
+- **Containers & Orchestration:** Docker, Kubernetes (beginner)  
+- **Scripting & OS:** Shell scripting (Bash), Python for automation, Linux   
+- **Concepts:** CI/CD, Infrastructure as Code (IaC)  
 
 ---
 
-## 🎯 Goals  
-
-- ☁️ Gain practical experience in *AWS services and DevOps workflows*  
-- 🔄 Build and deploy applications using *CI/CD pipelines*  
-- 🛠 Contribute to *open-source DevOps/Cloud projects*  
-- 📊 Learn and implement *infrastructure monitoring & automation*  
-- 🤝 Collaborate with professionals on *cloud and DevOps projects*  
+## 🎯 Current Focus  
+- 🔄 Designing **CI/CD pipelines** with Jenkins  
+- 🛠 Building **hands-on AWS & DevOps projects**  
+- 📊 Exploring **monitoring & automation tools**  
+- 🤝 Collaborating & contributing to **open-source projects**  
 
 ---
 
-## 🤝 Let’s Connect!  
-
-I’m always open to learning, collaborations, and guidance in my cloud journey. Reach out here:  
-
-- 📧 *Email:* patelalok884089@gmail.com  
-- 🔗 *LinkedIn:* [My LinkedIn Profile](https://www.linkedin.com/in/alok-patel-4b132922a)  
+## 📬 Let’s Connect  
+- 📧 [Email Me](mailto:patelalok884089@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alok-patel-4b132922a)  
 
 ---
 
-## 💡 Support My Work  
+⭐ If you like my work, don’t forget to star my repos—it keeps me motivated to learn, build, and share!  
 
-If you find my projects or learning journey interesting, consider giving them a ⭐ on GitHub!  
-Your support keeps me motivated to learn, build, and share.  
-
+---
