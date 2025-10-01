@@ -28,7 +28,7 @@ I’m passionate about **building, automating, and scaling cloud infrastructure*
 ---
 
 ## 📬 Let’s Connect  
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/alok-patel-4b132922a" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/3128/3128329.png" width="30" alt="LinkedIn" />
   </a>
