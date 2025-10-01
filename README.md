@@ -28,14 +28,15 @@ I’m passionate about **building, automating, and scaling cloud infrastructure*
 ---
 
 ## 📬 Let’s Connect  
-<p>
-  <a href="https://www.linkedin.com/in/alok-patel-4b132922a" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/3128/3128329.png" width="30" alt="LinkedIn" style="border: none; outline: none; text-decoration: none;"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alok-patel-4b132922a" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/128/3128/3128329.png" width="30" alt="LinkedIn" style="display: inline-block; vertical-align: middle;"/>
   </a>
-  <a href="mailto:patelalok884089@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/18154/18154191.png" width="30" alt="Email" style="border: none; outline: none; text-decoration: none;"/>
+  <a href="mailto:patelalok884089@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/128/18154/18154191.png" width="30" alt="Email" style="display: inline-block; vertical-align: middle;"/>
   </a>
 </p>
+
 
 
 
