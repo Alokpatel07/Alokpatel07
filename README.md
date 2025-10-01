@@ -6,7 +6,7 @@
 
 🚀 **Aspiring Cloud & DevOps Engineer** | ☁️ AWS | 🐧 Linux | ⚡ DevOps Tools  
 
-I’m passionate about **building, automating, and scaling cloud infrastructure**. Currently sharpening my skills in **AWS Cloud, DevOps practices, and automation** to kickstart my career in Cloud & DevOps engineering.  
+I’m passionate about **building, automating, and scaling cloud infrastructure**. Currently sharpening my skills in **DevOps tools, practices, and automation** to kickstart my career in Cloud & DevOps engineering.  
 
 ---
 
